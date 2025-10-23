@@ -4,5 +4,7 @@
     }
 </script>
  <template>
-    mostrando receitas
+    <article class="receitas">
+        
+    </article>
  </template>
